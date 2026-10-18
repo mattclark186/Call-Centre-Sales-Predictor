@@ -1,4 +1,4 @@
-# uyBvjh22fVpcb3UX
+# Call Centre Sales Predictor
 
 This project aimed to improve the success rate of sales calls made by the call centre of a bank.
 
